@@ -1,0 +1,52 @@
+Gokul Tonpe 
+LinkedIn:https://www.linkedin.com/in/gokul-tonpe-4884573/
+Email:gokultonpe@gmail.com  
+Location:Sacramento,CA 
+
+Summary
+-------
+Seasoned tech lead with more than 10 yrs experience in both technical and managerial roles across
+	Deep/Machine Learning (DL/ML) and Artificial  Intelligence (AI),  
+	GPGPU Compute and Graphics Security, 
+	ARM embedded linux, 
+	Network management software.
+Proven ability to manage critical projects with revenue impacting deliverables.  
+Education : Masters in Computer Engineering: North Carolina State University, US Graduated Dec 2008 
+Organizations:  Intel,Qualcomm,Nokia, Echostar 
+Stanford University Machine Learning Ceritficate:  https://www.coursera.org/account/accomplishments/verify/5WAYG6FRVN33
+
+Employment History
+------------------
+Graphics Software Lead at Intel,Folsom CA(Oct 2011 to present) 
+--------------------------------------------------------------
+Deep Learning and AI:  Enabled Microsoft DX12 based WinML and DirectML operators on Intel GPUs. 
+Led GPU power and performance (PnP) profiling and optimizations of OpenCL based Deep Neural Networks frameworks supporting popular DL topologies such as SqueezeNet and GoogleNet. 
+Drove Agile based scrums for DL performance improvement and debugging compiler (such as LLVM) generated compute shader binaries. 
+Working knowledge of compute workload partitioning across GPU devices. Mentored engineering team  to define and deploy ML competitive performance and validation suites. 
+Actively participated in strategic architectural design initiatives for next generation graphics at Intel. 
+Android Widevine DRM (Digital Rights Management):   Enabled Widevine hardware protection for Netflix and Google Play premium content playback on Intel’s first ever Android tablet with Gen family graphics.
+Integrated the GPU security engine and security firmware with the android media stack. 
+Won several organizational recognitions for time critical customer demos and power on activities. 
+Spearheaded Project Management activities for tracking and resolving critical customer issues. 
+Microsoft DirectX 12 PlayReady DRM:  Enabled Microsoft with premium content playback on Win10 DX12 using Microsoft’s PlayReady DRM.  
+Wireless Miracast on GPU Simulation: Implemented the HDCP authentication and secure encoding on GPU simulation to validate Miracast Wireless streaming of AVC and HEVC content.  
+GPU Architecture: Solid hands on knowledge of Compute and Media GPU architectural features 
+Leadership and Management: Lead a highly talented team responsible for pre and post-silicon driver validation for Intel’s 14nm Kabylake GPUs. 
+Effectively executed project and team management to deploy robust driver validation suites, minimize driver bug rate, ensure bug free driver quality of production drivers and minimize regressions.   
+
+Senior Embedded Developer at Echostar, Atlanta (2009-2011) 
+----------------------------------------------------------
+Linux Kernel:  Deployed Linux kernel with uboot bootloader on an ARM 9  set top box for US and Canadian Satellite TV markets. 
+Implemented kernel patches to configure GPIO/hardware,produce time invariant builds, optimize flash memory footprint and kernel panic recovery.  
+Transport Demultiplexing  
+Designed and developed HAL IOCTLs from user mode driver to kernel mode driver for MPEG Transport Stream demultiplexing. 
+I2C Debug :Worked on Inter Integrated Chip (IIC) protocol to setup the registers in NTSC demodulator to decode NTSC signals.    
+
+Engineering Intern at Qualcomm San Diego (Summer 2008) Application Engineering 
+------------------------------------------------------------------------------
+Debug customer issues on Qualcomm’s BREW platform (Binary Runtime Environment for Wireless) on Qualcomm reference boards.    
+
+Software developer at Nokia Siemens Networks, Bangalore, India(2005-2007) 
+-------------------------------------------------------------------------
+Network management Security:  Network Management Security applications development for user authentication and IP Security (IPSec) deployment for secure communication between remote Network Elements. 
+Performed vulnerability analysis of Microsoft Windows Security updates and subsequent roll out via Windows Software Update Services (WSUS) for clients across Europe."
